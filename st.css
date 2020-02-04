@@ -12,6 +12,17 @@ header{
   padding: 0px;
 }
 
+.logo{
+  display: inline-flex;
+  align-items: center;
+  color: white;
+  font-size: 1.4em;
+}
+
+.logo_des{
+  color: #0072C6;
+}
+
 /* nav{
   background-color: rgba(0, 0, 0, 0.4);
   display: flex;
